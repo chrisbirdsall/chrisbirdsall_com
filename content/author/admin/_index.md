@@ -81,5 +81,6 @@ user_groups = []
 #   link = "files/cv.pdf"
 
 +++
-[I'm rebuildin my website, so please excuse its incompleteness (02-25-2019)]
-I am an assistant professor of public administration in the School of Public Service at Boise State University. My research focuses on public management and higher education. 
+
+I am an assistant professor of public administration in the School of Public Service at Boise State University. My research focuses on public management and higher education.  <br> <br>
+[I'm rebuilding my website, so please excuse its incompleteness (02-25-2019)]
