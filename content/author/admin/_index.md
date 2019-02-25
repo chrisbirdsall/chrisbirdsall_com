@@ -63,7 +63,7 @@ user_groups = []
   icon_pack = "fab"
   link = "https://twitter.com/chrisbirdsall"
 
-[[social]]
+[[sociarebuildingl]]
   icon = "google-scholar"
   icon_pack = "ai"
   link = "https://scholar.google.com/citations?user=bJ5Pm7gAAAAJ"
@@ -81,5 +81,5 @@ user_groups = []
 #   link = "files/cv.pdf"
 
 +++
-[2019-02-25: rebuilding my website, so please excuse its incompleteness]
+[I'm rebuildin my website, so please excuse its incompleteness (02-25-2019)]
 I am an assistant professor of public administration in the School of Public Service at Boise State University. My research focuses on public management and higher education. 
