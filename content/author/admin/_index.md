@@ -56,7 +56,7 @@ user_groups = []
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:chrisbirdsall@boisestate.edu".
+  link = "mailto:chrisbirdsall@boisestate.edu"  # For a direct email link, use "mailto:chrisbirdsall@boisestate.edu".
 
 [[social]]
   icon = "twitter"
